@@ -1,0 +1,20 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+demo
+hello
+
+# PowerPoint temporary files
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
