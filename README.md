@@ -11,8 +11,6 @@ This presentation demonstrates the power of assembly by comparing a C loop imple
 - `demo.c` - Simple C function that sums 1 to n (using a loop)
 - `optimized.asm` - Hand-written assembly using formula n*(n+1)/2
 - `demo_with_asm.c` - Comparison program that calls both versions
-- `DEMO_SCRIPT.md` - Complete interactive demo walkthrough
-- `SPEAKER_NOTES.md` - Full presentation notes with timing
 
 ## The Key Insight
 
@@ -78,3 +76,4 @@ Both correct? YES
 - [NASM Documentation](https://www.nasm.us/doc/)
 - [x86-64 Reference](https://www.felixcloutier.com/x86/)
 - [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
+
